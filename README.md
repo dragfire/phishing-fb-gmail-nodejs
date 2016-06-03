@@ -1,9 +1,9 @@
-# phishing-fb-gmail-nodejs
+# Phishing FB Gmail using Nodejs (no dependencies)
 
 Set up your domain (http://example.com) that supports Nodejs.
 
 ##Facebook: 
-  Access Logs: http://example.com/logs  
+  Access Logs: http://example.com/log  
   Detects mobile devices and change UI.
   
 ##Gmail:
